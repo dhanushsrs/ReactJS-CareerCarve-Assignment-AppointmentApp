@@ -1,0 +1,177 @@
+[
+  {
+    "id": "0",
+    "studentName": "Alice Johnson",
+    "mentorName": "Dr. Smith",
+    "aptNotes": "I would like to understand more about the latest trends in AI/ML. Can you recommend any resources or techniques for staying updated?",
+    "aptDate": "2024-08-01"
+  },
+  {
+    "id": "1",
+    "studentName": "Bob Williams",
+    "mentorName": "Ms. Lee",
+    "aptNotes": "Could you explain how digital marketing strategies are evolving with new technologies? I'm interested in the role of AI in digital marketing.",
+    "aptDate": "2024-08-02"
+  },
+  {
+    "id": "2",
+    "studentName": "Charlie Brown",
+    "mentorName": "Mr. Green",
+    "aptNotes": "What are some effective ways to leverage full stack development skills for building scalable applications?",
+    "aptDate": "2024-08-03"
+  },
+  {
+    "id": "3",
+    "studentName": "Diana Prince",
+    "mentorName": "Dr. Patel",
+    "aptNotes": "Can you provide insights into the application of machine learning algorithms in real-world FMCG scenarios?",
+    "aptDate": "2024-08-04"
+  },
+  {
+    "id": "4",
+    "studentName": "Ethan Hunt",
+    "mentorName": "Ms. Davis",
+    "aptNotes": "I'm looking for advice on how to integrate full stack development with cloud services. What should I focus on?",
+    "aptDate": "2024-08-05"
+  },
+  {
+    "id": "5",
+    "studentName": "Fiona Gallagher",
+    "mentorName": "Dr. Johnson",
+    "aptNotes": "How do you approach data analysis in digital marketing to make data-driven decisions? Any tools you recommend?",
+    "aptDate": "2024-08-06"
+  },
+  {
+    "id": "6",
+    "studentName": "George Clooney",
+    "mentorName": "Ms. Clark",
+    "aptNotes": "What are some emerging trends in AI that could significantly impact the FMCG industry?",
+    "aptDate": "2024-08-07"
+  },
+  {
+    "id": "7",
+    "studentName": "Hannah Montana",
+    "mentorName": "Mr. Allen",
+    "aptNotes": "Can you suggest some best practices for optimizing full stack applications for performance?",
+    "aptDate": "2024-08-08"
+  },
+  {
+    "id": "8",
+    "studentName": "Isaac Newton",
+    "mentorName": "Dr. Harris",
+    "aptNotes": "What are the most critical skills to develop for a successful career in AI/ML? How can I build a strong portfolio?",
+    "aptDate": "2024-08-09"
+  },
+  {
+    "id": "9",
+    "studentName": "Jessica Alba",
+    "mentorName": "Ms. Moore",
+    "aptNotes": "I'm interested in understanding the impact of digital marketing on consumer behavior. Can you provide some examples?",
+    "aptDate": "2024-08-10"
+  },
+  {
+    "id": "10",
+    "studentName": "Kevin Hart",
+    "mentorName": "Mr. Young",
+    "aptNotes": "What are some effective strategies for managing large-scale data sets in AI/ML projects?",
+    "aptDate": "2024-08-11"
+  },
+  {
+    "id": "11",
+    "studentName": "Liam Neeson",
+    "mentorName": "Dr. Roberts",
+    "aptNotes": "How do you stay current with advancements in full stack development? Any particular blogs or communities you follow?",
+    "aptDate": "2024-08-12"
+  },
+  {
+    "id": "12",
+    "studentName": "Megan Fox",
+    "mentorName": "Ms. Scott",
+    "aptNotes": "Can you explain the role of machine learning in personalizing digital marketing campaigns?",
+    "aptDate": "2024-08-13"
+  },
+  {
+    "id": "13",
+    "studentName": "Nathan Drake",
+    "mentorName": "Mr. Turner",
+    "aptNotes": "What are some common challenges faced when integrating AI solutions into FMCG supply chains?",
+    "aptDate": "2024-08-14"
+  },
+  {
+    "id": "14",
+    "studentName": "Olivia Wilde",
+    "mentorName": "Dr. Lewis",
+    "aptNotes": "Could you provide insights into the future of AI/ML in healthcare? What should I be aware of?",
+    "aptDate": "2024-08-15"
+  },
+  {
+    "id": "15",
+    "studentName": "Paul Walker",
+    "mentorName": "Ms. King",
+    "aptNotes": "What are the best practices for ensuring data security in digital marketing campaigns?",
+    "aptDate": "2024-08-16"
+  },
+  {
+    "id": "16",
+    "studentName": "Quinn Fabray",
+    "mentorName": "Mr. Thompson",
+    "aptNotes": "How can full stack development be utilized to improve user experience in web applications?",
+    "aptDate": "2024-08-17"
+  },
+  {
+    "id": "17",
+    "studentName": "Ryan Gosling",
+    "mentorName": "Dr. Walker",
+    "aptNotes": "Can you explain the different types of machine learning models and their applications in AI projects?",
+    "aptDate": "2024-08-18"
+  },
+  {
+    "id": "18",
+    "studentName": "Sarah Michelle",
+    "mentorName": "Ms. Adams",
+    "aptNotes": "What are the key metrics to track for assessing the effectiveness of digital marketing strategies?",
+    "aptDate": "2024-08-19"
+  },
+  {
+    "id": "19",
+    "studentName": "Tom Hardy",
+    "mentorName": "Mr. Evans",
+    "aptNotes": "How do I get started with developing AI models for predictive analytics in the FMCG sector?",
+    "aptDate": "2024-08-20"
+  },
+  {
+    "id": "20",
+    "studentName": "Uma Thurman",
+    "mentorName": "Dr. Martinez",
+    "aptNotes": "What are some effective ways to balance front-end and back-end development in full stack projects?",
+    "aptDate": "2024-08-21"
+  },
+  {
+    "id": "21",
+    "studentName": "Vin Diesel",
+    "mentorName": "Ms. Nelson",
+    "aptNotes": "Can you provide guidance on how to use AI to optimize digital marketing ROI?",
+    "aptDate": "2024-08-22"
+  },
+  {
+    "id": "22",
+    "studentName": "Will Smith",
+    "mentorName": "Mr. Roberts",
+    "aptNotes": "What are some key considerations for developing scalable AI systems in a startup environment?",
+    "aptDate": "2024-08-23"
+  },
+  {
+    "id": "23",
+    "studentName": "Xena Warrior",
+    "mentorName": "Dr. Harris",
+    "aptNotes": "What are the emerging trends in digital marketing that businesses should prepare for in the next few years?",
+    "aptDate": "2024-08-24"
+  },
+  {
+    "id": "24",
+    "studentName": "Thor",
+    "mentorName": "Tony Stark",
+    "aptNotes": "What are the emerging trends in FMCG that businesses should prepare for in the next few years?",
+    "aptDate": "2024-08-24"
+  }
+]
